@@ -5,6 +5,7 @@ public class A03Palindrome {
     public static void main(String[] args) {
         //测试  //test  //我在GitHub上修改的内容
         //手贱之后的尝试
+        System.out.println(isPalindrome(1));
     }
 
 
