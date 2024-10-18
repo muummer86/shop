@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mydifficultytask/mydifficultytask.iml" filepath="$PROJECT_DIR$/mydifficultytask/mydifficultytask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myeasytask/myeasytask.iml" filepath="$PROJECT_DIR$/myeasytask/myeasytask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymediumtask/mymediumtask.iml" filepath="$PROJECT_DIR$/mymediumtask/mymediumtask.iml" />
+    </modules>
+  </component>
+</project>
